@@ -38,3 +38,5 @@ Improvements:
 4. we can add threads for parallel execution using testng framework
 5. we can add cross Browser testing
 6. We can furthur add more base class to make this project more robust framework
+
+(./demo.JPG)
