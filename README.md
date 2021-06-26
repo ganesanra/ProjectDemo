@@ -27,3 +27,14 @@ Go to your project directory from terminal and hit following commands
 
 mvn test (defualt will run on local firefox browser)
 mvn test "-Dbrowser=chrome" (to use any other browser)
+
+Instruction to Run:
+Please update your local driver path System.setProperty("webdriver.chrome.driver", "//Users//ganesan//Downloads//chromedriver") agasint step definition
+
+Improvements:
+1. We can add Dependency for driver handling downloaded inside respository
+2. We can add more assertions to validate this scenario
+3. We can add more scenario to split this scenairo and add more asertions
+4. we can add threads for parallel execution using testng framework
+5. we can add cross Browser testing
+6. We can furthur add more base class to make this project more robust framework
